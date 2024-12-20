@@ -6,7 +6,7 @@ Google Dork:
 inurl:admin dashboard filetype:aspx intext:admin dashboard
 
 Date:
-23.11.2024
+20.12.2024
 
 Exploit Author:
 H.S. Navarath
